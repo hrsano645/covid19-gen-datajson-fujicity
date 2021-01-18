@@ -1,4 +1,9 @@
-**注意: このプロジェクトはまだ作業途中です。**
+**注意: このプロジェクトは静岡県版へ移行することになりました** 
+
+
+詳細: https://github.com/hrsano645/covid19-gen-datajson-shizuokapref/issues/31
+
+---
 
 # これは何？
 
